@@ -1,0 +1,3 @@
+Alice Moyo: Deposited: 500.0 | Balance: 1500.0
+Alice Moyo: Withdrew: 700.0 | Balance: 800.0
+Alice Moyo: Failed Withdrawal Attempt: 2000.0 | Balance unchanged: 800.0
